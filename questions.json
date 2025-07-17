@@ -1,0 +1,113 @@
+[
+    {
+        "question": "What is the main objective in Dota 2?",
+        "options": ["Destroy the enemy Ancient", "Kill enemy heroes", "Farm gold", "Level up"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which hero is known as the 'Mad Moon'?",
+        "options": ["Pudge", "Luna", "Kunkka", "Invoker"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the maximum level a hero can reach?",
+        "options": ["15", "25", "30", "40"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What item gives a hero the ability to fly?",
+        "options": ["Boots of Travel", "Aghanim's Scepter", "Glimmer Cape", "Force Staff"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which hero has the ability 'Finger of Death'?",
+        "options": ["Lion", "Lina", "Necrophos", "Pugna"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What year was The International first held?",
+        "options": ["2011", "2013", "2015", "2018"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which team won The International 10?",
+        "options": ["Team Secret", "Evil Geniuses", "PSG.LGD", "Team Spirit"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the name of the item that grants invisibility?",
+        "options": ["Shadow Blade", "Smoke of Deceit", "Glimmer Cape", "Blink Dagger"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the 'Ancient' refer to in Dota 2?",
+        "options": ["A powerful hero", "A structure to be destroyed", "A type of item", "A game mode"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which hero is famous for the ability 'Black Hole'?",
+        "options": ["Enigma", "Dark Seer", "Magnus", "Void Spirit"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does MMR stand for?",
+        "options": ["Matchmaking Rating", "Monthly Match Report", "Matchmaking Reward", "Majority Match Rating"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which item can be used to dispel buffs and debuffs?",
+        "options": ["Hurricane Pike", "Lotus Orb", "Glimmer Cape", "Force Staff"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which hero has the ability to summon wolves?",
+        "options": ["Lycan", "Beastmaster", "Nature's Prophet", "Terrorblade"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the name of the announcer that was introduced in the Dota 2 battle pass for The International 2019?",
+        "options": ["The Director", "The Herald", "The Emissary", "The Ancient"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'deny' in Dota 2?",
+        "options": ["Killing an ally", "Diminishing the enemy's experience", "Healing an ally", "Using a spell"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which pro player is known for their role as a position 4 support?",
+        "options": ["Puppey", "Dendi", "Arteezy", "N0tail"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which item gives the user the ability to travel across the map?",
+        "options": ["Boots of Travel", "Blink Dagger", "Town Portal Scroll", "Eul's Scepter"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the name of the Dota 2 event held annually that features a massive prize pool?",
+        "options": ["The International", "Dota 2 Major", "ESL One", "Dota Pit"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which hero can transform into a powerful bear?",
+        "options": ["Lone Druid", "Nature's Prophet", "Chen", "Beastmaster"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the term 'offlane' refer to?",
+        "options": ["A farming position", "A support position", "A solo position", "A team strategy"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is known for playing the hero Invoker?",
+        "options": ["KuroKy", "Dendi", "SumaiL", "NoTail"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which ability does the hero Pudge use to hook enemies?",
+        "options": ["Meat Hook", "Flesh Heap", "Rot", "Dismember"],
+        "correctAnswer": 0
+    }
+]
+

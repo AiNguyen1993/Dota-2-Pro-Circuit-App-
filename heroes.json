@@ -1,0 +1,43 @@
+[
+    {
+        "hero": "Invoker",
+        "clues": [
+            "I am a master of arcane arts.",
+            "I can combine spells to create new effects.",
+            "My ultimate ability is called 'Cataclysm'."
+        ]
+    },
+    {
+        "hero": "Pudge",
+        "clues": [
+            "I have a hook that can pull enemies to me.",
+            "I am known as the 'Butcher'.",
+            "My ultimate is called 'Dismember'."
+        ]
+    },
+    {
+        "hero": "Anti-Mage",
+        "clues": [
+            "I am known for my ability to counter magic.",
+            "I can blink short distances.",
+            "My ultimate ability is called 'Mana Void'."
+        ]
+    },
+    {
+        "hero": "Crystal Maiden",
+        "clues": [
+            "I can provide mana regeneration to my allies.",
+            "I have a freezing spell that roots enemies in place.",
+            "My ultimate ability is called 'Freezing Field'."
+        ]
+    },
+    {
+        "hero": "Sven",
+        "clues": [
+            "I wield a massive sword and can stun enemies.",
+            "I am known for my high damage output.",
+            "My ultimate ability is called 'God's Strength'."
+        ]
+    }
+]
+
